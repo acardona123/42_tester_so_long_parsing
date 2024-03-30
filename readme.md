@@ -1,0 +1,1 @@
+# Tester for so_long parsing
